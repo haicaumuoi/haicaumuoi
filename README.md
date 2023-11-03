@@ -34,7 +34,7 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 - :telescope: I’m a college student majoring in Software Engineer. I mainly build web apps, especially front-end
 
-- :seedling: On my way learning JavaScript frameworks
+- :seedling: Working as a junior software developer for Taggle Inc since March 2023
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
