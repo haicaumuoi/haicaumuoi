@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
-- :telescope: I’m a college student majoring in Software Engineer. I mainly build web apps, especially front-end
+- :telescope: I’m a software engineer. I mainly build web apps, especially front-end
 
 - :seedling: Working as a junior software developer for Taggle Inc since March 2023
 
